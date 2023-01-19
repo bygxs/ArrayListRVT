@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArrayListRVT</string>
+
+    <string-array name="persons_names_full_txt">
+        <item>Seew</item>
+        <item>MuluBerhan</item>
+        <item>Negus</item>
+    </string-array>
+    <string-array name="cars_names_full_txt">
+        <item>Toyota</item>
+        <item>Volvo</item>
+        <item>Dodge</item>
+    </string-array>
+    <string-array name="pets_names_full_txt">
+        <item>Dog</item>
+        <item>cat</item>
+        <item>fish</item>
+    </string-array>
+
+
+
+</resources>
